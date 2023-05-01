@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+}
+
+h3 {
+    color: red;
+}
+
+h2.title {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+
+#instructions {
+    background: bisque;
+    padding: 5px 20px;
+}
+
+#ingredients {
+    padding: 5px 20px;
+}
